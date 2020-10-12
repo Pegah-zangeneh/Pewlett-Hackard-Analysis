@@ -58,4 +58,4 @@ GROUP BY me.title
 ORDER by COUNT(me.title)DESC; 
 
 
-![number of mentores:](../number_of_mentores.png)
+![number of mentores:](Pewlett-Hackard-Analysis/number_of_mentores.png)
