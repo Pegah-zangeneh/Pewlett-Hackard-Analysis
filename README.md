@@ -31,6 +31,7 @@ the final table is created that has the number of retirement-age employees by mo
 recent job title.
 
 
+
 - By using the ERD created in this module as a reference and the knowledge of SQL
  queries, a mentorship-eligibility table is created that holds the current employees 
  who were born between January 1, 1965 and December 31, 1965.
