@@ -1,7 +1,7 @@
-# Pewlett-Hackard-Analysis
+# Pewlett_Hackard_Analysis
 
 
-## Overview of Pewlett-Hackard-Analysis
+## Overview of Pewlett_Hackard_Analysis
 
  Bobby's manager has a new request: determine the number of retiring employees per title,
  and identify employees who are eligible to participate in a mentorship program. 
@@ -19,7 +19,7 @@ employees.csv
 titles.csv
 - Software: pgAdmin , VS code
 
-## Pewlett-Hackard-Analysis Results:
+## Pewlett_Hackard_Analysis Results:
 
 -By using the ERD created in this module as a reference and the knowledge of 
 SQL queries, a Retirement Titles table is created that holds all the titles of 
@@ -38,7 +38,7 @@ recent job title.
 
 
   
-## Pewlett-Hackard-Analysis Summary
+## Pewlett_Hackard_Analysis Summary
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 90398 roles are going to be retired and these roles need to be filled as the "silver tsunmi".
