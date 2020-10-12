@@ -56,4 +56,4 @@ FROM  mentorship_eligibilty AS me
 GROUP BY me.title
 ORDER by COUNT(me.title)DESC; 
 
-![number of mentores:](Pewlett_Hackard_Analysis/number_of_mentores.png)
+![number of mentores:](Resources/number_of_mentores.png)
